@@ -6,10 +6,6 @@
   - [Tech Stack](#tech-stack)
   - [Links](#links)
 
-## Domain
-
-- [도메인 정리](https://github.com/asterlsker/project-alpha/issues/1)
-
 ## Repositories
 
 ## Introduction
