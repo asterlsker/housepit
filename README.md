@@ -1,4 +1,4 @@
-# project-alpha
+# housepit
 
 - __Table of Contents__
   - [Repositories](#repositories)
