@@ -9,12 +9,12 @@
 ## Repositories
 - housepit-server
   - application
-    - api [submodule]
-    - admin [submodule]
+    - housepit-api [submodule]
+    - housepit-admin [submodule]
   - common
-    - core [submodule]
-    - meber [submodule]
-    - payment [submodule]
+    - housepit-core [submodule]
+    - housepit-meber [submodule]
+    - housepit-payment [submodule]
 
 ## Introduction
 
