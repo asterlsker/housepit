@@ -7,6 +7,14 @@
   - [Links](#links)
 
 ## Repositories
+- housepit-server
+  - application
+    - api [submodule]
+    - admin [submodule]
+  - common
+    - core [submodule]
+    - meber [submodule]
+    - payment [submodule]
 
 ## Introduction
 
