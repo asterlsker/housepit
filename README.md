@@ -9,14 +9,12 @@
 
 ## Repositories
 
-- housepit-server
-  - application
-    - housepit-api [submodule]
-    - housepit-admin [submodule]
-  - common
-    - housepit-core [submodule]
-    - housepit-meber [submodule]
-    - housepit-payment [submodule]
+- [housepit-server](https://github.com/asterlsker/housepit-server)
+### application
+- [housepit-api-server](https://github.com/asterlsker/housepit-api-server)
+- [housepit-admin-server](https://github.com/asterlsker/housepit-admin-server)
+### common
+- [housepit-core](https://github.com/asterlsker/housepit-core)
 
 ## Introduction
 
