@@ -1,13 +1,14 @@
-# housepit
-
-- __Table of Contents__
+- [housepit](#housepit)
   - [Repositories](#repositories)
   - [Introduction](#introduction)
   - [Tech Stack](#tech-stack)
   - [Links](#links)
-  - [Tools](#Tools)
+  - [Tools](#tools)
+
+# housepit
 
 ## Repositories
+
 - housepit-server
   - application
     - housepit-api [submodule]
@@ -34,4 +35,5 @@
 - [기획서](./docs/%EA%B8%B0%ED%9A%8D%EC%84%9C.md)
 
 ## Tools
+
 - [ERDCloud](https://www.erdcloud.com/)
